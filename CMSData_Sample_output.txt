@@ -1,0 +1,27 @@
+
+CSV FILES FILTERED AND PUSHED TO OUTPUT FOLDER: 
+
+
+Outpatient_and_Ambulatory_Surgery_Consumer_Assessment_of_Healthcare_Providers_and_Systems_OAS_CAHPS_survey_for_ambulatory_surgical_centers_-_Facility.csv
+Ambulatory_Surgical_Center_Quality_Measures_-_Facility.csv
+Ambulatory_Surgical_Center_Quality_Measures_-_National.csv
+Ambulatory_Surgical_Center_Quality_Measures_-_State.csv
+Hospital_General_Information.csv
+Complications_and_Deaths_-_Hospital.csv
+CMS_Medicare_PSI-90_and_component_measures_-_six-digit_estimate_dataset.csv
+Patient_survey_HCAHPS_-_Hospital.csv
+Healthcare_Associated_Infections_-_Hospital.csv
+Hospital_Readmissions_Reduction_Program.csv
+
+===================================================================
+SAMPLE DATA FROM HOSPITAL_GENERAL_INFORMATION.CSV
+
+SEE ACTUAL CSV FILE ATTACHED TO GITHUB. 
+
+| facility_id | facility_name                  | address                    | citytown | state | zip_code | countyparish | telephone_number | hospital\_type       | hospital\_ownership                         | ... |
+| ------------ | ------------------------------- | -------------------------- | -------- | ----- | --------- | ------------ | ----------------- | -------------------- | ------------------------------------------- | --- |
+| 010001       | SOUTHEAST HEALTH MEDICAL CENTER | 1108 ROSS CLARK CIRCLE     | DOTHAN   | AL    | 36301     | HOUSTON      | (334) 793-8701    | Acute Care Hospitals | Government - Hospital District or Authority | ... |
+| 010005       | MARSHALL MEDICAL CENTERS        | 2505 U S HIGHWAY 431 NORTH | BOAZ     | AL    | 35957     | MARSHALL     | (256) 593-8310    | Acute Care Hospitals | Government - Hospital District or Authority | ... |
+| 010006       | NORTH ALABAMA MEDICAL CENTER    | 1701 VETERANS DRIVE        | FLORENCE | AL    | 35630     | LAUDERDALE   | (256) 768-8400    | Acute Care Hospitals | Proprietary                                 | ... |
+| 010007       | MIZELL MEMORIAL HOSPITAL        | 702 N MAIN ST              | OPP      | AL    | 36467     | COVINGTON    | (334) 493-3541    | Acute Care Hospitals | Voluntary non-profit - Private              | ... |
+| 010008       | CRENSHAW COMMUNITY HOSPITAL     | 101 HOSPITAL CIRCLE        | LUVERNE  | AL    | 36049     | CRENSHAW     | (334) 335-3374    | Acute Care Hospitals | Proprietary                                 | ... |
